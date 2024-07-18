@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647028874166",
+    "project_id": "whatsapp-khud",
+    "storage_bucket": "whatsapp-khud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647028874166:android:05ffe8fb28c7a669a0ff17",
+        "android_client_info": {
+          "package_name": "com.example.whatsappkhud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjftKundlsUONIgmn9hK--B6wJ5t7ZwRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
